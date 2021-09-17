@@ -11,5 +11,3 @@ I am currently a master of Tongji University, focusing on the research of Comput
 - 💬 Ask me about Machine Learning and Deep Learning. I am more than happy to help anytime. :)
 - 📫 How to reach me: zjli1997@163.com. I am mostly active, so feel free to reach out to me.
 - 👨 Pronouns: He/His
-
-[![Zhengjia Li's github stats](https://github-readme-stats.vercel.app/api?username=serend1p1ty&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
