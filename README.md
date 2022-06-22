@@ -1,7 +1,5 @@
 ### Hello, I am Zhengjia Li
 
-![](https://komarev.com/ghpvc/?username=serend1p1ty&color=blue)
-
 I am currently a master of Tongji University, focusing on the research of Computer Vision.
 
 #### Few things about me:
