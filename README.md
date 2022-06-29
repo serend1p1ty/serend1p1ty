@@ -1,6 +1,6 @@
 ### Hello, I am Zhengjia Li
 
-I am currently a master of Tongji University, focusing on the research of Computer Vision.
+I am currently working on Alibaba DAMO lab, focusing on the research of Computer Vision.
 
 #### Few things about me:
 - 🔭 I’m currently working on Person Search, Vision Transformer, 3D Human Shape and Pose Estimation.
